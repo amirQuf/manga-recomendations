@@ -1,5 +1,4 @@
 # manga-recomendations
-## Seinen
 - Berserk
 - vaga bond
 - oyasumi pun pun
